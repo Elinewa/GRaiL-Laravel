@@ -1,8 +1,8 @@
 {
-    "name": "elinewa/grail-laravel",
-    "description": "GRial - An advanced login system built using Laravel.",
-    "keywords": ["framework", "laravel", "grail"],
-    "license": "GPL-3.0",
+    "name": "laravel/laravel",
+    "description": "The Laravel Framework.",
+    "keywords": ["framework", "laravel"],
+    "license": "MIT",
     "type": "project",
     "require": {
         "php": ">=7.0.0",
